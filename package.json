@@ -1,0 +1,25 @@
+{
+  "name": "smart-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect": "^3.6.6",
+    "connect-mongo": "^2.0.1",
+    "connect-redis": "^3.3.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "finalhandler": "^1.1.1",
+    "jsencrypt": "^3.0.0-beta.1",
+    "mongoose": "^5.0.9",
+    "node-rsa": "^0.4.2",
+    "path": "^0.12.7"
+  }
+}
